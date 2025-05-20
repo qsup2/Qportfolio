@@ -2,10 +2,10 @@
 
 import { COLORS } from "@/components/commen/colors";
 import Section from "@/components/commen/section";
+import BackendCard from "@/components/projects/backdendCard";
 import HeartscopyCard from "@/components/projects/heartscopyCard";
 import ParttimeCard from "@/components/projects/parttimeCard";
 import { motion } from "framer-motion";
-
 
 export default function Projects() {
   return (
@@ -20,6 +20,7 @@ export default function Projects() {
         >
           <HeartscopyCard></HeartscopyCard>
           <ParttimeCard></ParttimeCard>
+          <BackendCard></BackendCard>
         </motion.div>
       </div>
     </Section>

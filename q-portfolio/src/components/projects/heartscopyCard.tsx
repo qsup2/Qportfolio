@@ -12,7 +12,7 @@ export default function HeartscopyCard() {
       transition={{ duration: 0.6 }}
       viewport={{ once: false }}
     >
-      <div className="flex items-center space-x-4">
+      <div className="flex items-center space-x-4 mb-10 mt-5">
         <motion.img
           src="/heartscopy.png"
           alt="Heartscopy Logo"
