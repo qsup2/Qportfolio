@@ -1,0 +1,14 @@
+export const lectures = [
+  "스파르타 코딩클럽 - 국비지원 React ReactNative",
+  "Nomad Coders - Flutter, React, Next.js",
+  "생활코딩 - NEXT.js",
+  "코딩파파 - Flutter",
+  "인프런 - 스프링 부트 입문 & 실전",
+  "코딩레시피 - 스프링부트 mybatis 게시판 프로젝트",
+  "방구석코딩 - 스프링부트",
+  "코딩하는 오후 - 스프링부트 3 입문",
+  "코딩하는 오후 - JPA QueryDSL",
+  "토토의 즐거운 프로그래밍- JAVA 백엔드 프로그래밍",
+  "김영한 - 스프링 입문 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술",
+  "코딩앙마 - TypeScript 강좌",
+];
