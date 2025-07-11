@@ -102,6 +102,10 @@ export default function HeartscopyCard() {
           <br />
           효율적 폴더 구조를 만들어 유지보수에 최적화
           <br />
+          Flutter Android 빌드 환경에서 Gradle 플러그인 적용·호환성(Flutter Gradle Plugin, Kotlin 버전 매핑)과 keystore 설정 문제 해결을 통해 안정적인 AAB 서명 및 배포 파이프라인을 구축
+          <br />
+          CI/CD 자동화를 고려한 캐시 무효화·재시도 로직(Exponential Backoff) 도입으로 서버 다운·네트워크 장애에도 견고한 앱 실행 환경을 확보
+          <br />
           -------------------------------------------------------------------------
           <br />
           비슷한 생각을 가진 사람들을 어떻게 연결될 수 있을까에 대한 해답
@@ -123,6 +127,7 @@ export default function HeartscopyCard() {
           <br />
           페이지 로드 속도를 준수하게 하기 위해서 widget별 리렌더링을 요한
           부분만 하도록함
+
         </p>
       </motion.div>
     </div>

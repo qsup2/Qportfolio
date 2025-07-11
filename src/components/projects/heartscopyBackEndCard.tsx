@@ -56,7 +56,7 @@ export default function HeartscopyBackEndCard() {
 
         <div className="w-full flex items-center justify-end space-x-6 mt-4">
           <a
-            href="https://github.com/qsup2/Qportfolio/tree/main/heartscopyBeckEendProject/heartsocpyBeckEnd"
+            href="https://github.com/qsup2/heartscopy-backend"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 text-gray-800 hover:text-gray-100 transition"
