@@ -79,6 +79,10 @@ export default function HeartscopyBackEndCard() {
         <p className="text-base text-gray-200 leading-loose whitespace-pre-line">
           백엔드 아키텍처 설계 및 구현
           <br />
+          render를 이용한 서버 배포
+          <br />
+          Railway를 이용한 데이터베이스 연결
+          <br />
           MyBatis를 이용한 효율적 쿼리 작성
           <br />
           firebase에서 발행한 토큰을 통한 보안기능 구현
