@@ -35,7 +35,10 @@ export default function HeartscopyCard() {
           <ul className="text-base leading-relaxed list-disc pl-5 space-y-10">
             <li>
               <strong>사용 기술:</strong> Flutter (프론트엔드), Firebase
-              (백엔드)
+              (백엔드: 유저 정보, 챗팅, 사진), Springboot(설문, 선택, 댓글, 검색)
+            </li>
+             <li>
+              <strong>개발 기간:</strong> 3년 (개발, 배포, 유지보수)
             </li>
             <li>
               <strong>주요 기능:</strong>
@@ -43,7 +46,7 @@ export default function HeartscopyCard() {
               매칭, 채팅, 차단 기능, 사진 등록/삭제, 검색
             </li>
             <li>
-              <strong>참여 인원:</strong> 1명 (단독 기획 · 디자인 · 개발 · 배포)
+              <strong>참여 인원:</strong> 2명 (단독 기획 · 디자인 · 개발 · 배포)
             </li>
             <li>
               <strong>담당 역할:</strong> 전반적인 앱 아키텍처 설계부터

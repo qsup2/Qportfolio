@@ -1,11 +1,9 @@
 export const lectures = [
   "스파르타 코딩클럽 - 국비지원 React ReactNative",
   "Ripple Code - Flutter GetX Tutorial",
-  "개발하는 남자 - 인스타그램 클론코딩",
   "Net Ninja - flutter & firebase App build",
   "Nomad Coders - Flutter, React, Next.js",
   "Code With Stein - Nextjs and Django Airbnb",
-  "ZeroCho TV - 네이버클론코딩",
   "JavaScript Mastery - Master React Js by Building RealProject",
   "어라운드 허브 스튜디오 - 스프링부트 강의",
   "CodeWithAamir- ReactJs with AntDesign",

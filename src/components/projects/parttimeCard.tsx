@@ -24,10 +24,13 @@ export default function ParttimeCard() {
         </div>
         <ul className="text-base leading-relaxed list-disc pl-5 space-y-10">
           <li>
-            <strong>지남 소프트 단기 고용</strong>
+            <strong>지남 소프트 단기 프리랜서</strong>
           </li>
           <li>
-            <strong>사용 기술:</strong> NEXT.js typesript, antDisign
+            <strong>사용 기술:</strong> NEXT.js  TypeScript , antDisign
+          </li>
+          <li>
+            <strong>개발 기간:</strong> 2개월 (개발, 유지보수)
           </li>
           <li>
             <strong>주요 기능:</strong>
